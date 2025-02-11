@@ -4,7 +4,8 @@ Grid view Project
 This is a Flutter-based dashboard app.
 
 ## 📸 Screenshot
-![Dashboard](./assets/dashboard.png)
+![App Screenshot](./assets/screenshot.png)
+
 
 ## 🚀 Features
 - Grid-based UI
